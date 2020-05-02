@@ -9,3 +9,4 @@ Diğer iletişim adreslerim : </br>
 # LinkedIn: https://www.linkedin.com/in/fatih-%C5%9Feng%C3%BCl-058611135/</br>
 # Twitter : https://twitter.com/fsengul081</br>
 # Facebook : https://www.facebook.com/fatih.sengul.31924/</br>
+# Reddit : https://www.reddit.com/user/FatihSengulDev/comments/gc9ga3/restful_web_services_with_spring_boot/
